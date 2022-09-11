@@ -1,4 +1,0 @@
-from handlers import main
-
-
-
